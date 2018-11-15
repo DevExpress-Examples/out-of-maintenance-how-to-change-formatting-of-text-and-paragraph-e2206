@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/HowToChangeFormatting/Form1.cs) (VB: [Form1.vb](./VB/HowToChangeFormatting/Form1.vb))
+* [Program.cs](./CS/HowToChangeFormatting/Program.cs) (VB: [Program.vb](./VB/HowToChangeFormatting/Program.vb))
+<!-- default file list end -->
 # How to change formatting of text and paragraph
 
 
